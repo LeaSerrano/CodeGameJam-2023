@@ -12,3 +12,7 @@ Nous avons choisi de réaliser un jeu platformer dans lequel on va devoir change
 
 
 Voici le lien de la vidéo du jeu : https://youtu.be/OnUc5V9-1IU
+
+Lien du jeu sur Itch.io : https://byxis.itch.io/weather-clock
+
+Lien du dépôt git original : https://github.com/thi-christine-nguyen/CGJ2023
